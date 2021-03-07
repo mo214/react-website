@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.aa961519.chunk.css",
-    "main.js": "/static/js/main.2bf9519e.chunk.js",
-    "main.js.map": "/static/js/main.2bf9519e.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.671de3f9.js",
-    "runtime-main.js.map": "/static/js/runtime-main.671de3f9.js.map",
-    "static/js/2.d9aa97c9.chunk.js": "/static/js/2.d9aa97c9.chunk.js",
-    "static/js/2.d9aa97c9.chunk.js.map": "/static/js/2.d9aa97c9.chunk.js.map",
-    "static/js/3.a3bd0764.chunk.js": "/static/js/3.a3bd0764.chunk.js",
-    "static/js/3.a3bd0764.chunk.js.map": "/static/js/3.a3bd0764.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.aa961519.chunk.css.map": "/static/css/main.aa961519.chunk.css.map",
-    "static/js/2.d9aa97c9.chunk.js.LICENSE.txt": "/static/js/2.d9aa97c9.chunk.js.LICENSE.txt",
-    "static/media/Section1.css": "/static/media/backgroundimage.c79cd116.jpg"
+    "main.css": "/mo214.github.io/react-website/static/css/main.3cdc9eca.chunk.css",
+    "main.js": "/mo214.github.io/react-website/static/js/main.2bf9519e.chunk.js",
+    "main.js.map": "/mo214.github.io/react-website/static/js/main.2bf9519e.chunk.js.map",
+    "runtime-main.js": "/mo214.github.io/react-website/static/js/runtime-main.fa4c9131.js",
+    "runtime-main.js.map": "/mo214.github.io/react-website/static/js/runtime-main.fa4c9131.js.map",
+    "static/js/2.d9aa97c9.chunk.js": "/mo214.github.io/react-website/static/js/2.d9aa97c9.chunk.js",
+    "static/js/2.d9aa97c9.chunk.js.map": "/mo214.github.io/react-website/static/js/2.d9aa97c9.chunk.js.map",
+    "static/js/3.a3bd0764.chunk.js": "/mo214.github.io/react-website/static/js/3.a3bd0764.chunk.js",
+    "static/js/3.a3bd0764.chunk.js.map": "/mo214.github.io/react-website/static/js/3.a3bd0764.chunk.js.map",
+    "index.html": "/mo214.github.io/react-website/index.html",
+    "static/css/main.3cdc9eca.chunk.css.map": "/mo214.github.io/react-website/static/css/main.3cdc9eca.chunk.css.map",
+    "static/js/2.d9aa97c9.chunk.js.LICENSE.txt": "/mo214.github.io/react-website/static/js/2.d9aa97c9.chunk.js.LICENSE.txt",
+    "static/media/Section1.css": "/mo214.github.io/react-website/static/media/backgroundimage.c79cd116.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.671de3f9.js",
+    "static/js/runtime-main.fa4c9131.js",
     "static/js/2.d9aa97c9.chunk.js",
-    "static/css/main.aa961519.chunk.css",
+    "static/css/main.3cdc9eca.chunk.css",
     "static/js/main.2bf9519e.chunk.js"
   ]
 }
